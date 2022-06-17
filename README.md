@@ -8,3 +8,4 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/97f2edc395db2dbad105/test_coverage)](https://codeclimate.com/github/sergunya/frontend-project-lvl3/test_coverage)
 
 ### Run eslint status
+[![Run ESLint](https://github.com/sergunya/frontend-project-lvl3/actions/workflows/eslint_npm_dry_run.yml/badge.svg)](https://github.com/sergunya/frontend-project-lvl3/actions/workflows/eslint_npm_dry_run.yml)
